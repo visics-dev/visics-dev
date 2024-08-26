@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hello there! <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2%">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=190 align="center" src="https://github-readme-stats-seven-rouge-75.vercel.app/api?username=visics&show_icons=true&show=reviews&theme=github_dark&border_radius=0&custom_title=Github%20Stats&hide_rank=true">
