@@ -1,5 +1,4 @@
   ### Hello there! <img src="https://raw.githubusercontent.com/ginny100/ginny100/main/assets/waving-hand.webp" width="2%">
-==============================================================================================================================
 
 Developer and 3D Designer
 -------------------------
