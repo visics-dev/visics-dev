@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<a href="https://wakatime.com/@visics-dev">
-  <img height=190 align="center" src="[https://github-readme-stats-seven-rouge-75.vercel.app/api/wakatime?username=visics-dev&theme=github_dark&border_radius=0&langs_count=6&layout=compact&custom_title=Wakatime%20Stats%20(last%20week)](https://wakatime.com/@208adff7-b2fb-4b70-a658-e1487d8c063c/projects/yupmpivabr?start=2024-08-20&end=2024-08-26)">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=190 align="center" src="https://github-readme-stats-seven-rouge-75.vercel.app/api?username=visics&show_icons=true&show=reviews&theme=github_dark&border_radius=0&custom_title=Github%20Stats&hide_rank=true">
 </a>
 
 <!--
