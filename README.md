@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<a href="https://wakatime.com/@visics-dev">
+  <img height=190 align="center" src="https://github-readme-stats-seven-rouge-75.vercel.app/api/wakatime?username=joinemm&theme=github_dark&border_radius=0&langs_count=6&layout=compact&custom_title=Wakatime%20Stats%20(last%20week)">
+</a>
+
 <!--
 **visics-dev/visics-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
